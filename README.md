@@ -1,4 +1,4 @@
-# CoolSeq2
+# single-cell multiomics
 
 This is a pipeline for single-cell multiomics sequencing data analyses.
 Using single-cell multiomics, the study examines DNA methylation, regulome, and transcriptome profiles of ILCPs, revealing distinct stages and heterogeneity in ILCP methylation that drive ILC lineage differentiation.
